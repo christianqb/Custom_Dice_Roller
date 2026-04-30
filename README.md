@@ -71,17 +71,6 @@ Saída:
 ```text
 Sorteados: [ 2, 5, 1, 8 ]
 ```
-
----
-
-## 🔥 Possíveis melhorias
-
-* Evitar números repetidos (modo loteria)
-* Ordenar os resultados automaticamente
-* Adicionar animação no sorteio
-* Exibir cada número em elementos separados
-* Salvar resultados no navegador (`localStorage`)
-
 ---
 
 ## 👨‍💻 Autor
