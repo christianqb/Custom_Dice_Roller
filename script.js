@@ -10,12 +10,12 @@ function start(){
     alert("Digite apenas números positivos!");
     return;
     }
-
+    // se algum estiver sem valor
     if (rodadas == 0 && quantidade == 0) {
     alert("Digite algum valor!");
     return;
     }
-
+    // para avisar algum input vazio
     if (rodadas == 0){
         alert("digite algum valor na quantidade de rodadas!");
         return;
